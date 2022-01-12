@@ -1,5 +1,5 @@
 Linear Regression Assignment
-                                                          By Ramraj Vasudevan (Oct'21 AI & ML Batch 1992)
+                                                       
 This assignment is a programming assignment to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 Steps in Model building
